@@ -14,7 +14,7 @@
             "last_commit": "2026-08-08T04:42:37Z",
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6452
+            "stars": 6456
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-10T11:47:12Z",
             "owner": "wondelai",
             "repo": "skills",
-            "stars": 1944
+            "stars": 1956
           }
         }
       ],
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:46:30Z",
+            "last_commit": "2026-08-18T20:43:11Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 231976
+            "stars": 232502
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:46:30Z",
+            "last_commit": "2026-08-18T20:43:11Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 231976
+            "stars": 232502
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-06-17T11:53:04Z",
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5060
+            "stars": 5074
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-04-04T05:44:23Z",
             "owner": "NousResearch",
             "repo": "hermes-paperclip-adapter",
-            "stars": 1813
+            "stars": 1818
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-03-20T16:17:11Z",
             "owner": "NousResearch",
             "repo": "autonovel",
-            "stars": 1489
+            "stars": 1493
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-03-22T21:35:09Z",
             "owner": "NousResearch",
             "repo": "tinker-atropos",
-            "stars": 98
+            "stars": 100
           }
         }
       ],
@@ -157,7 +157,7 @@
             "last_commit": "2026-07-18T05:50:32Z",
             "owner": "42-evey",
             "repo": "hermes-plugins",
-            "stars": 403
+            "stars": 405
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-07-27T17:15:52Z",
             "owner": "Cranot",
             "repo": "super-hermes",
-            "stars": 376
+            "stars": 377
           }
         },
         {
@@ -196,7 +196,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-28T19:39:10Z",
+            "last_commit": "2026-08-17T23:04:54Z",
             "owner": "Lethe044",
             "repo": "hermes-life-os",
             "stars": 173
@@ -275,7 +275,7 @@
             "last_commit": "2026-08-08T14:55:19Z",
             "owner": "mukul975",
             "repo": "Anthropic-Cybersecurity-Skills",
-            "stars": 28328
+            "stars": 29081
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2026-08-10T11:47:12Z",
             "owner": "wondelai",
             "repo": "skills",
-            "stars": 1944
+            "stars": 1956
           }
         },
         {
@@ -300,7 +300,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T13:00:59Z",
+            "last_commit": "2026-08-18T13:22:16Z",
             "owner": "DougTrajano",
             "repo": "pydantic-ai-skills",
             "stars": 359
@@ -328,10 +328,10 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-17T16:36:27Z",
+            "last_commit": "2026-08-18T17:48:05Z",
             "owner": "smartcontractkit",
             "repo": "chainlink-agent-skills",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -342,7 +342,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T20:50:49Z",
+            "last_commit": "2026-08-17T22:02:24Z",
             "owner": "black-forest-labs",
             "repo": "skills",
             "stars": 101
@@ -441,7 +441,7 @@
             "last_commit": "2026-08-17T16:53:20Z",
             "owner": "robbyczgw-cla",
             "repo": "hermes-web-search-plus",
-            "stars": 378
+            "stars": 379
           }
         },
         {
@@ -452,10 +452,24 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:28:18Z",
+            "last_commit": "2026-08-18T20:40:23Z",
             "owner": "plur-ai",
             "repo": "plur",
             "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[experimental] hermes-cloudflare",
+          "description": "by raulvidis - Cloudflare 浏览器渲染插件。通过 Cloudflare 基础设施进行无头浏览，而不是本地浏览器自动化。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T08:20:43Z",
+            "owner": "raulvidis",
+            "repo": "hermes-cloudflare",
+            "stars": 48
           }
         },
         {
@@ -474,27 +488,13 @@
         },
         {
           "node_type": "item",
-          "title": "[experimental] hermes-cloudflare",
-          "description": "by raulvidis - Cloudflare 浏览器渲染插件。通过 Cloudflare 基础设施进行无头浏览，而不是本地浏览器自动化。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-02T08:20:43Z",
-            "owner": "raulvidis",
-            "repo": "hermes-cloudflare",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
           "title": "[production] Hermes Tweet",
           "description": "by Xquik-dev - Hermes Agent 的 X/Twitter 插件，提供搜索、资料/时间线读取和可选发布/关注动作。读取工具需要 ，动作还需要显式设置 。",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:59:02Z",
+            "last_commit": "2026-08-18T20:44:14Z",
             "owner": "Xquik-dev",
             "repo": "hermes-tweet",
             "stars": 27
@@ -587,7 +587,7 @@
             "last_commit": "2026-06-30T18:24:52Z",
             "owner": "amanning3390",
             "repo": "hermeshub",
-            "stars": 22
+            "stars": 21
           }
         }
       ],
@@ -607,7 +607,7 @@
             "last_commit": "2026-08-08T04:42:37Z",
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6452
+            "stars": 6456
           }
         },
         {
@@ -618,10 +618,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T00:25:44Z",
+            "last_commit": "2026-08-18T05:43:26Z",
             "owner": "builderz-labs",
             "repo": "mission-control",
-            "stars": 6020
+            "stars": 6026
           }
         },
         {
@@ -635,7 +635,7 @@
             "last_commit": "2026-08-17T01:12:24Z",
             "owner": "aivrar",
             "repo": "portable-hermes-agent",
-            "stars": 206
+            "stars": 205
           }
         },
         {
@@ -646,7 +646,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T17:29:18Z",
+            "last_commit": "2026-08-18T18:34:26Z",
             "owner": "unmodeled-tyler",
             "repo": "vessel-browser",
             "stars": 126
@@ -716,10 +716,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:45:24Z",
+            "last_commit": "2026-08-18T18:20:36Z",
             "owner": "hermes-labs-ai",
             "repo": "lintlang",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -744,7 +744,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-17T05:03:36Z",
+            "last_commit": "2026-08-18T11:43:46Z",
             "owner": "0xrsydn",
             "repo": "nix-hermes-agent",
             "stars": 40
@@ -818,10 +818,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:44:25Z",
+            "last_commit": "2026-08-18T20:43:50Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 20100
+            "stars": 20184
           }
         },
         {
@@ -832,10 +832,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T12:16:43Z",
+            "last_commit": "2026-08-18T15:17:22Z",
             "owner": "raulvidis",
             "repo": "hermes-android",
-            "stars": 466
+            "stars": 468
           }
         },
         {
@@ -849,7 +849,7 @@
             "last_commit": "2026-04-09T04:51:34Z",
             "owner": "elkimek",
             "repo": "honcho-self-hosted",
-            "stars": 360
+            "stars": 361
           }
         },
         {
@@ -877,7 +877,7 @@
             "last_commit": "2026-05-11T07:20:15Z",
             "owner": "Ridwannurudeen",
             "repo": "hermes-council",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -1013,7 +1013,7 @@
             "last_commit": "2026-03-25T21:11:19Z",
             "owner": "bigph00t",
             "repo": "hermescraft",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2026-05-19T13:08:08Z",
             "owner": "dlkakbs",
             "repo": "hermes-startup-architect",
-            "stars": 37
+            "stars": 38
           }
         },
         {
@@ -1227,7 +1227,7 @@
             "last_commit": "2026-05-18T09:37:47Z",
             "owner": "mudrii",
             "repo": "hermes-agent-docs",
-            "stars": 72
+            "stars": 73
           }
         },
         {
@@ -1272,10 +1272,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:44:25Z",
+            "last_commit": "2026-08-18T20:43:50Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 20100
+            "stars": 20184
           }
         },
         {
@@ -1289,7 +1289,7 @@
             "last_commit": "2026-06-17T11:53:04Z",
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5060
+            "stars": 5074
           }
         },
         {
@@ -1323,7 +1323,7 @@
             "last_commit": "2026-08-08T04:42:37Z",
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6452
+            "stars": 6456
           }
         },
         {
@@ -1334,10 +1334,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T00:25:44Z",
+            "last_commit": "2026-08-18T05:43:26Z",
             "owner": "builderz-labs",
             "repo": "mission-control",
-            "stars": 6020
+            "stars": 6026
           }
         }
       ],
@@ -1350,7 +1350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:48:12.217Z",
+    "last_updated": "2026-08-18T20:44:25.127Z",
     "original_repository": "jefferyjob/awesome-hermes-agent-zh",
     "original_repository_sha": "4b746de941284495207a6bfb9b786d32c108fea9",
     "enhanced_repository": "enhansome/enhansome-hermes-agent-zh",
