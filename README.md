@@ -8,9 +8,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 翻译自 [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) ⭐ 5,483 | 🐛 33 | 📅 2026-08-28 库，本仓库持续同步更新。
+> 翻译自 [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) ⭐ 5,488 | 🐛 34 | 📅 2026-08-28 库，本仓库持续同步更新。
 >
-> 一个精选的技能、工具、集成与资源清单，用于增强你的 [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 237,781 | 🐛 37,165 | 🌐 Python | 📅 2026-08-29 工作流 —— 这是由 [Nous Research](https://nousresearch.com) 打造的可自我改进 AI Agent。
+> 一个精选的技能、工具、集成与资源清单，用于增强你的 [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 237,810 | 🐛 37,204 | 🌐 Python | 📅 2026-08-29 工作流 —— 这是由 [Nous Research](https://nousresearch.com) 打造的可自我改进 AI Agent。
 
 Hermes Agent 是目前唯一内置学习闭环的 agent —— 它能够从经验中创建技能，在使用中持续改进，搜索自己过去的对话，并在跨会话过程中逐步建立关于你的更深层模型。你可以把它运行在 5 美元的 VPS、GPU 集群或无服务器基础设施上。当它在云端虚拟机上工作时，你还能通过 Telegram 与它交流。
 
@@ -18,9 +18,9 @@ Hermes Agent 是目前唯一内置学习闭环的 agent —— 它能够从经�
 
 > 生态状态（最后审查时间：2026-04-03）
 >
-> * Hermes Agent: [v0.6.0 (v2026.3.30)](https://github.com/NousResearch/hermes-agent/releases/tag/v2026.3.30) ⭐ 237,781 | 🐛 37,165 | 🌐 Python | 📅 2026-08-29
-> * 核心仓库: [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐ 237,781 | 🐛 37,165 | 🌐 Python | 📅 2026-08-29（23k+ stars）
-> * 最新发布说明: [Hermes releases](https://github.com/NousResearch/hermes-agent/releases) ⭐ 237,781 | 🐛 37,165 | 🌐 Python | 📅 2026-08-29
+> * Hermes Agent: [v0.6.0 (v2026.3.30)](https://github.com/NousResearch/hermes-agent/releases/tag/v2026.3.30) ⭐ 237,810 | 🐛 37,204 | 🌐 Python | 📅 2026-08-29
+> * 核心仓库: [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐ 237,810 | 🐛 37,204 | 🌐 Python | 📅 2026-08-29（23k+ stars）
+> * 最新发布说明: [Hermes releases](https://github.com/NousResearch/hermes-agent/releases) ⭐ 237,810 | 🐛 37,204 | 🌐 Python | 📅 2026-08-29
 
 ***
 
@@ -30,7 +30,7 @@ Hermes Agent 是目前唯一内置学习闭环的 agent —— 它能够从经�
 
 刚接触 Hermes？不要一上来就试图把所有东西都装上。下面是从零到高效使用的三步路径：
 
-1. **配一个 GUI** —— 设置 [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) ⭐ 6,529 | 🐛 144 | 🌐 JavaScript | 📅 2026-08-22（500+ stars），获得一个原生面向 Hermes 的工作区，包含聊天、终端和技能管理器。或者使用 [mission-control](https://github.com/builderz-labs/mission-control) ⭐ 6,126 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-25（3.7k+ stars），它提供更广泛的 agent 编排仪表盘，支持 fleet 管理、任务分发和成本跟踪。
+1. **配一个 GUI** —— 设置 [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) ⭐ 6,530 | 🐛 144 | 🌐 JavaScript | 📅 2026-08-22（500+ stars），获得一个原生面向 Hermes 的工作区，包含聊天、终端和技能管理器。或者使用 [mission-control](https://github.com/builderz-labs/mission-control) ⭐ 6,127 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-25（3.7k+ stars），它提供更广泛的 agent 编排仪表盘，支持 fleet 管理、任务分发和成本跟踪。
 2. **添加你的第一批技能** —— 安装 [wondelai/skills](https://github.com/wondelai/skills) ⭐ 2,047 | 🐛 8 | 🌐 Shell | 📅 2026-08-28（380+ stars，持续维护中）—— 这是一个可用于 Hermes 和其他 agent 的跨平台技能库。或者试试 [litprog-skill](https://github.com/tlehman/litprog-skill) ⭐ 254 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-10（75+ stars），它支持在 Claude Code、OpenCode 和 Hermes 中进行文学化编程。
 3. **先跑起来** —— 按照[官方文档快速开始](https://hermes-agent.nousresearch.com/docs/)操作。它涵盖安装、CLI、配置以及你的第一次对话。
 
@@ -76,9 +76,9 @@ Hermes Agent 是目前唯一内置学习闭环的 agent —— 它能够从经�
 
 > 由 Nous Research 维护的核心仓库和资源。
 
-* [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 237,781 | 🐛 37,165 | 🌐 Python | 📅 2026-08-29 by [Nous Research](https://nousresearch.com) - 核心项目。具备封闭学习回路的可自我改进 AI agent，支持多平台网关（Telegram、Discord、Slack、WhatsApp、Signal、Feishu/Lark、WeCom）、六种终端后端、cron 调度、MCP 集成、profiles（多实例）和 fallback providers。23k+ stars。包含从 OpenClaw 自动迁移功能。
-* [Release Notes](https://github.com/NousResearch/hermes-agent/releases) ⭐ 237,781 | 🐛 37,165 | 🌐 Python | 📅 2026-08-29 - 官方更新日志，包含每个 Hermes 版本的功能亮点、迁移说明和可靠性修复。
-* [hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) ⭐ 5,189 | 🐛 120 | 🌐 Python | 📅 2026-06-17 by [Nous Research](https://nousresearch.com) - 使用 DSPy 和 GEPA（Genetic Evolution of Prompt Architectures）进行进化式自我改进。这是用于优化 Hermes 自身提示词和行为的研究流水线。
+* [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 237,810 | 🐛 37,204 | 🌐 Python | 📅 2026-08-29 by [Nous Research](https://nousresearch.com) - 核心项目。具备封闭学习回路的可自我改进 AI agent，支持多平台网关（Telegram、Discord、Slack、WhatsApp、Signal、Feishu/Lark、WeCom）、六种终端后端、cron 调度、MCP 集成、profiles（多实例）和 fallback providers。23k+ stars。包含从 OpenClaw 自动迁移功能。
+* [Release Notes](https://github.com/NousResearch/hermes-agent/releases) ⭐ 237,810 | 🐛 37,204 | 🌐 Python | 📅 2026-08-29 - 官方更新日志，包含每个 Hermes 版本的功能亮点、迁移说明和可靠性修复。
+* [hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) ⭐ 5,190 | 🐛 120 | 🌐 Python | 📅 2026-06-17 by [Nous Research](https://nousresearch.com) - 使用 DSPy 和 GEPA（Genetic Evolution of Prompt Architectures）进行进化式自我改进。这是用于优化 Hermes 自身提示词和行为的研究流水线。
 * [hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) ⭐ 1,842 | 🐛 148 | 🌐 TypeScript | 📅 2026-04-04 by [Nous Research](https://nousresearch.com) - 让 Hermes 作为 Paperclip 公司中的托管员工运行。将 agent 接入 Paperclip 的任务管理和治理系统。
 * [autonovel](https://github.com/NousResearch/autonovel) ⭐ 1,529 | 🐛 20 | 🌐 Python | 📅 2026-03-20 by [Nous Research](https://nousresearch.com) - 基于 Hermes 构建的自主小说写作流水线。使用 agent 循环端到端生成长篇手稿（100k+ 字）。
 * [tinker-atropos](https://github.com/NousResearch/tinker-atropos) ⭐ 100 | 🐛 8 | 🌐 Python | 📅 2026-03-22 by [Nous Research](https://nousresearch.com) - 独立的 Atropos 集成，接入 Thinking Machines Tinker API。用于在真实 agent 轨迹上微调工具调用模型的 RL 训练基础设施。
@@ -100,7 +100,7 @@ Hermes Agent 是目前唯一内置学习闭环的 agent —— 它能够从经�
 
 * **\[beta]** [hermes-skill-factory](https://github.com/Romanescu11/hermes-skill-factory) ⭐ 542 | 🐛 5 | 🌐 Python | 📅 2026-03-18 by [Romanescu11](https://github.com/Romanescu11) - 可自动从你的工作流中生成可复用技能的元技能。把重复执行的任务交给它，它会为该任务创建一个技能。
 * **\[beta]** [hermes-plugins](https://github.com/42-evey/hermes-plugins) ⭐ 441 | 🐛 0 | 🌐 Python | 📅 2026-07-18 by [42-evey](https://github.com/42-evey) - 目标管理、agent 间桥接、模型选择和成本控制。四个插件覆盖了最常见的运维需求。如果你运行多个 Hermes 实例，其中的 inter-agent bridge 会特别有用。
-* **\[experimental]** [super-hermes](https://github.com/Cranot/super-hermes) ⭐ 413 | 🐛 0 | 🌐 PowerShell | 📅 2026-07-27 by [Cranot](https://github.com/Cranot) - 教 Hermes 为自己编写分析型提示词。增加一层元推理能力，让 agent 在执行任务前先为自己生成更好的提示词。
+* **\[experimental]** [super-hermes](https://github.com/Cranot/super-hermes) ⭐ 414 | 🐛 0 | 🌐 PowerShell | 📅 2026-07-27 by [Cranot](https://github.com/Cranot) - 教 Hermes 为自己编写分析型提示词。增加一层元推理能力，让 agent 在执行任务前先为自己生成更好的提示词。
 * **\[beta]** [litprog-skill](https://github.com/tlehman/litprog-skill) ⭐ 254 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-10 by [tlehman](https://github.com/tlehman) - 适用于 Claude Code、OpenCode 和 Hermes 的文学化编程技能。把代码与文字说明编织为有文档、可执行的笔记。
 * **\[experimental]** [hermes-life-os](https://github.com/Lethe044/hermes-life-os) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2026-08-26 by [Lethe044](https://github.com/Lethe044) - 个人 OS agent，可检测日常模式并随着时间学习你的习惯。它将 Hermes 的记忆系统用于生活方式追踪，而不只是代码。
 * **\[beta]** [hermes-dojo](https://github.com/Yonkoo11/hermes-dojo) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2026-06-06 by [Yonkoo11](https://github.com/Yonkoo11) - 自我改进系统，可监控 agent 性能、识别薄弱技能并自动迭代改进。
@@ -114,7 +114,7 @@ Hermes Agent 是目前唯一内置学习闭环的 agent —— 它能够从经�
 
 > 基于 [agentskills.io](https://agentskills.io) 开放标准构建的技能 —— 可在 Hermes 和其他 agent 平台之间兼容使用。
 
-* **\[production]** [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) ⭐ 31,521 | 🐛 48 | 🌐 Python | 📅 2026-08-24 by [mukul975](https://github.com/mukul975) - 753+ 个结构化网络安全技能，映射 MITRE ATT\&CK。当前最全面的安全技能集合。4k+ stars。
+* **\[production]** [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) ⭐ 31,530 | 🐛 48 | 🌐 Python | 📅 2026-08-24 by [mukul975](https://github.com/mukul975) - 753+ 个结构化网络安全技能，映射 MITRE ATT\&CK。当前最全面的安全技能集合。4k+ stars。
 * **\[production]** [wondelai/skills](https://github.com/wondelai/skills) ⭐ 2,047 | 🐛 8 | 🌐 Shell | 📅 2026-08-28 by [wondelai](https://github.com/wondelai) - 面向 Claude Code 和 agentskills.io 兼容平台的跨平台 agent 技能。
 * **\[production]** [pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) ⭐ 363 | 🐛 1 | 🌐 Python | 📅 2026-08-28 by [DougTrajano](https://github.com/DougTrajano) - 支持 agentskills.io 的 Pydantic AI。为 agent 技能输入和输出增加类型安全的 schema 校验。
 * **\[beta]** [maestro](https://github.com/ReinaMacCredy/maestro) ⭐ 230 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-29 by [ReinaMacCredy](https://github.com/ReinaMacCredy) - 使用 Conductor 规划与 Beads 跟踪进行技能编排。把多步骤技能执行组织成可观测的流水线。
@@ -156,8 +156,8 @@ Hermes Agent 是目前唯一内置学习闭环的 agent —— 它能够从经�
 
 > 构建在 Hermes Agent 之上或围绕它构建的应用、CLI 和实用工具。
 
-* **\[production]** [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) ⭐ 6,529 | 🐛 144 | 🌐 JavaScript | 📅 2026-08-22 by [outsourc-e](https://github.com/outsourc-e) - 基于 Web 的工作区，包含聊天、终端、记忆浏览器、技能管理器和检查器。是目前最完整的 Hermes GUI。诞生于 Nous Hackathon 2026。
-* **\[production]** [mission-control](https://github.com/builderz-labs/mission-control) ⭐ 6,126 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-25 by [builderz-labs](https://github.com/builderz-labs) - 面向 AI agent 编排的开源仪表盘。可管理 agent fleet、分发任务、跟踪成本并协调多 agent 工作流。自托管，基于 SQLite。3.7k+ stars。
+* **\[production]** [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) ⭐ 6,530 | 🐛 144 | 🌐 JavaScript | 📅 2026-08-22 by [outsourc-e](https://github.com/outsourc-e) - 基于 Web 的工作区，包含聊天、终端、记忆浏览器、技能管理器和检查器。是目前最完整的 Hermes GUI。诞生于 Nous Hackathon 2026。
+* **\[production]** [mission-control](https://github.com/builderz-labs/mission-control) ⭐ 6,127 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-25 by [builderz-labs](https://github.com/builderz-labs) - 面向 AI agent 编排的开源仪表盘。可管理 agent fleet、分发任务、跟踪成本并协调多 agent 工作流。自托管，基于 SQLite。3.7k+ stars。
 * **\[beta]** [portable-hermes-agent](https://github.com/rookiemann/portable-hermes-agent) ⭐ 211 | 🐛 1 | 🌐 Python | 📅 2026-08-27 by [rookiemann](https://github.com/rookiemann) - Windows 桌面应用，集成 100 个工具、GUI、本地模型、ComfyUI 和工作流于单个便携包中。
 * **\[experimental]** [vessel-browser](https://github.com/unmodeled-tyler/vessel-browser) ⭐ 129 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-25 by [unmodeled-tyler](https://github.com/unmodeled-tyler) - 面向 AI 的原生 Linux 浏览器，支持 MCP 控制和自主浏览。这是为 agent 使用场景构建的完整浏览器，而不是无头浏览器封装。
 * **\[beta]** [hermes-webui](https://github.com/sanchomuzax/hermes-webui) ⭐ 114 | 🐛 0 | 🌐 Python | 📅 2026-03-24 by [sanchomuzax](https://github.com/sanchomuzax) - 轻量级进程监控与配置仪表盘。比 hermes-workspace 更简单，更偏重运维。
@@ -185,7 +185,7 @@ Hermes Agent 是目前唯一内置学习闭环的 agent —— 它能够从经�
 
 > 将 Hermes 连接到其他平台、设备和服务。
 
-* **\[production]** [hindsight](https://github.com/vectorize-io/hindsight) ⭐ 21,608 | 🐛 139 | 🌐 Python | 📅 2026-08-28 by [Vectorize](https://github.com/vectorize-io) - 面向 agent 的长期记忆层，支持 retain / recall / reflect 工作流。可通过插件或 MCP 集成到 Hermes，并支持语义、图谱和时间检索。
+* **\[production]** [hindsight](https://github.com/vectorize-io/hindsight) ⭐ 21,610 | 🐛 139 | 🌐 Python | 📅 2026-08-29 by [Vectorize](https://github.com/vectorize-io) - 面向 agent 的长期记忆层，支持 retain / recall / reflect 工作流。可通过插件或 MCP 集成到 Hermes，并支持语义、图谱和时间检索。
 * **\[beta]** [hermes-android](https://github.com/raulvidis/hermes-android) ⭐ 482 | 🐛 6 | 🌐 Python | 📅 2026-08-19 by [raulvidis](https://github.com/raulvidis) - 带完整 Python 工具集的 Android 设备桥接。让 Hermes 能与 Android 设备交互并进行控制。
 * **\[beta]** [honcho-self-hosted](https://github.com/elkimek/honcho-self-hosted) ⭐ 368 | 🐛 6 | 🌐 Shell | 📅 2026-04-09 by [elkimek](https://github.com/elkimek) - 面向 Hermes 的自托管 Honcho 记忆后端部署。适用于需要更强跨会话记忆行为且希望本地可控的场景。
 * **\[beta]** [hermes-miniverse](https://github.com/teknium1/hermes-miniverse) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2026-03-13 by [teknium1](https://github.com/teknium1) - 通往 Miniverse 像素世界的桥接工具。作者是 Nous Research 联合创始人之一。
@@ -272,8 +272,8 @@ Hermes Agent 是目前唯一内置学习闭环的 agent —— 它能够从经�
 
 > 在生产环境中反复证明对 Hermes 团队有帮助的实用工作流模式。
 
-* **使用 Honcho/Hindsight 处理记忆压力** —— 如果你在重复上下文或丢失长期记忆，请查看 [Honcho Memory docs](https://hermes-agent.nousresearch.com/docs/user-guide/features/honcho)，并评估 [hindsight](https://github.com/vectorize-io/hindsight) ⭐ 21,608 | 🐛 139 | 🌐 Python | 📅 2026-08-28 或自托管记忆后端。
-* **夜间自我进化 + 护栏评估** —— 按计划运行 [hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) ⭐ 5,189 | 🐛 120 | 🌐 Python | 📅 2026-06-17，再运行第二个验证 cron 对质量进行评分并阻止优化循环作弊。
+* **使用 Honcho/Hindsight 处理记忆压力** —— 如果你在重复上下文或丢失长期记忆，请查看 [Honcho Memory docs](https://hermes-agent.nousresearch.com/docs/user-guide/features/honcho)，并评估 [hindsight](https://github.com/vectorize-io/hindsight) ⭐ 21,610 | 🐛 139 | 🌐 Python | 📅 2026-08-29 或自托管记忆后端。
+* **夜间自我进化 + 护栏评估** —— 按计划运行 [hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) ⭐ 5,190 | 🐛 120 | 🌐 Python | 📅 2026-06-17，再运行第二个验证 cron 对质量进行评分并阻止优化循环作弊。
 * **OpenClaw 并行迁移** —— 在迁移过程中，使用 [openclaw-to-hermes](https://github.com/jefferyjob/awesome-hermes-agent-zh) ⭐ 64 | 🐛 4 | 📅 2026-08-04 和 Hermes 原生迁移路径让两个系统并行运行，待 cron 与路由行为一致后再完成切换。
 * **尽早调整 session timeout/expiry** —— 使用[配置文档](https://hermes-agent.nousresearch.com/docs/user-guide/configuration/)为推进较慢的线程调整会话保留时间，以便在需要时保留上下文。
 * **有意识地维护 USER.md 和 MEMORY.md** —— 将用户画像记忆视为高信号基础设施。保持条目简洁、持久，并聚焦偏好，而不是堆积原始笔记。
@@ -286,8 +286,8 @@ Hermes Agent 是目前唯一内置学习闭环的 agent —— 它能够从经�
 
 > 面向想要快速搭起完整 Hermes 工作流的组合方案。
 
-* **工作区优先蓝图** —— 用 [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) ⭐ 6,529 | 🐛 144 | 🌐 JavaScript | 📅 2026-08-22 作为主交互层，配合 [wondelai/skills](https://github.com/wondelai/skills) ⭐ 2,047 | 🐛 8 | 🌐 Shell | 📅 2026-08-28 作为通用技能底座，适合个人开发和日常 agent 协作。
-* **编排与运维蓝图** —— 用 [mission-control](https://github.com/builderz-labs/mission-control) ⭐ 6,126 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-25 做多 agent 调度和成本追踪，结合 [hindsight](https://github.com/vectorize-io/hindsight) ⭐ 21,608 | 🐛 139 | 🌐 Python | 📅 2026-08-28 或自托管记忆后端，适合长期运行和团队场景。
+* **工作区优先蓝图** —— 用 [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) ⭐ 6,530 | 🐛 144 | 🌐 JavaScript | 📅 2026-08-22 作为主交互层，配合 [wondelai/skills](https://github.com/wondelai/skills) ⭐ 2,047 | 🐛 8 | 🌐 Shell | 📅 2026-08-28 作为通用技能底座，适合个人开发和日常 agent 协作。
+* **编排与运维蓝图** —— 用 [mission-control](https://github.com/builderz-labs/mission-control) ⭐ 6,127 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-25 做多 agent 调度和成本追踪，结合 [hindsight](https://github.com/vectorize-io/hindsight) ⭐ 21,610 | 🐛 139 | 🌐 Python | 📅 2026-08-29 或自托管记忆后端，适合长期运行和团队场景。
 
 ***
 
