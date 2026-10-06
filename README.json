@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-29T23:49:31Z",
-            "open_issues": 182,
+            "open_issues": 180,
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6684,
+            "stars": 6687,
             "topics": [
               "agent-ui",
               "ai-workspace",
@@ -48,7 +48,7 @@
             "open_issues": 8,
             "owner": "wondelai",
             "repo": "skills",
-            "stars": 2337,
+            "stars": 2346,
             "topics": [
               "agent-skills",
               "ai-skills",
@@ -88,11 +88,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-04T22:43:47Z",
-            "open_issues": 47947,
+            "last_commit": "2026-10-06T01:19:59Z",
+            "open_issues": 48053,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 251219,
+            "stars": 251451,
             "topics": [
               "ai",
               "ai-agent",
@@ -123,11 +123,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-04T22:43:47Z",
-            "open_issues": 47947,
+            "last_commit": "2026-10-06T01:19:59Z",
+            "open_issues": 48053,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 251219,
+            "stars": 251451,
             "topics": [
               "ai",
               "ai-agent",
@@ -162,7 +162,7 @@
             "open_issues": 126,
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5453,
+            "stars": 5459,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -183,7 +183,7 @@
             "open_issues": 150,
             "owner": "NousResearch",
             "repo": "hermes-paperclip-adapter",
-            "stars": 1945,
+            "stars": 1947,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -204,7 +204,7 @@
             "open_issues": 23,
             "owner": "NousResearch",
             "repo": "autonovel",
-            "stars": 1601,
+            "stars": 1603,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -254,7 +254,7 @@
                 "open_issues": 7,
                 "owner": "Romanescu11",
                 "repo": "hermes-skill-factory",
-                "stars": 552,
+                "stars": 551,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:44.187Z"
@@ -272,10 +272,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-18T05:50:32Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "42-evey",
                 "repo": "hermes-plugins",
-                "stars": 520,
+                "stars": 522,
                 "topics": [
                   "ai-agent",
                   "autonomous-agent",
@@ -302,7 +302,7 @@
                 "open_issues": 0,
                 "owner": "Cranot",
                 "repo": "super-hermes",
-                "stars": 479,
+                "stars": 480,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:44.187Z"
@@ -323,7 +323,7 @@
                 "open_issues": 0,
                 "owner": "tlehman",
                 "repo": "litprog-skill",
-                "stars": 273,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:44.187Z"
@@ -386,7 +386,7 @@
                 "open_issues": 0,
                 "owner": "Yonkoo11",
                 "repo": "hermes-dojo",
-                "stars": 177,
+                "stars": 179,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:44.187Z"
@@ -500,10 +500,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T04:32:44Z",
-                "open_issues": 52,
+                "open_issues": 54,
                 "owner": "mukul975",
                 "repo": "Anthropic-Cybersecurity-Skills",
-                "stars": 33776,
+                "stars": 33817,
                 "topics": [
                   "ai-agents",
                   "claude-code",
@@ -545,7 +545,7 @@
                 "open_issues": 8,
                 "owner": "wondelai",
                 "repo": "skills",
-                "stars": 2337,
+                "stars": 2346,
                 "topics": [
                   "agent-skills",
                   "ai-skills",
@@ -648,8 +648,8 @@
                 "id": 1154952967,
                 "language": "Solidity",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T15:23:41Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-05T15:58:21Z",
+                "open_issues": 3,
                 "owner": "smartcontractkit",
                 "repo": "chainlink-agent-skills",
                 "stars": 126,
@@ -673,7 +673,7 @@
                 "open_issues": 3,
                 "owner": "black-forest-labs",
                 "repo": "skills",
-                "stars": 124,
+                "stars": 125,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -857,7 +857,7 @@
                 "open_issues": 0,
                 "owner": "robbyczgw-cla",
                 "repo": "hermes-web-search-plus",
-                "stars": 419,
+                "stars": 420,
                 "topics": [
                   "ai-agents",
                   "donsetch",
@@ -886,8 +886,8 @@
                 "id": 1186683138,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T22:51:45Z",
-                "open_issues": 454,
+                "last_commit": "2026-10-06T01:05:38Z",
+                "open_issues": 467,
                 "owner": "plur-ai",
                 "repo": "plur",
                 "stars": 298,
@@ -919,7 +919,7 @@
                 "open_issues": 4,
                 "owner": "FahrenheitResearch",
                 "repo": "hermes-weather-plugin",
-                "stars": 50,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:44.187Z"
@@ -1128,10 +1128,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-29T23:49:31Z",
-            "open_issues": 182,
+            "open_issues": 180,
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6684,
+            "stars": 6687,
             "topics": [
               "agent-ui",
               "ai-workspace",
@@ -1160,7 +1160,7 @@
             "open_issues": 50,
             "owner": "builderz-labs",
             "repo": "mission-control",
-            "stars": 6305,
+            "stars": 6309,
             "topics": [
               "agent-observability",
               "agent-operations",
@@ -1219,45 +1219,6 @@
         },
         {
           "node_type": "item",
-          "title": "[experimental] vessel-browser",
-          "description": "by unmodeled-tyler - 面向 AI 的原生 Linux 浏览器，支持 MCP 控制和自主浏览。这是为 agent 使用场景构建的完整浏览器，而不是无头浏览器封装。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Built from the ground-up for agents, Vessel Browser is an open source AI browser for Linux/Mac/Windows that provides a durable state, MCP control, and BYOK with full autonomous browsing. Use with Hermes Agent, OpenClaw, or connect to your favorite API provider.",
-            "homepage": "https://quantaintellect.com",
-            "id": 1175081210,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-15T00:53:58Z",
-            "open_issues": 8,
-            "owner": "unmodeled-tyler",
-            "repo": "vessel-browser",
-            "stars": 136,
-            "topics": [
-              "agents",
-              "ai-agents",
-              "ai-browser",
-              "ai-browser-automation",
-              "ai-mcp-browser",
-              "ai-web-browser",
-              "autonomous-agents",
-              "byok",
-              "claude-mcp",
-              "codex-mcp",
-              "hermes-agent-mcp",
-              "linux",
-              "llm-agents",
-              "mac-universal",
-              "mcp-server",
-              "openclaw-mcp",
-              "web-browser"
-            ]
-          },
-          "first_seen": "2026-08-28T04:23:44.187Z"
-        },
-        {
-          "node_type": "item",
           "title": "[beta] lintlang",
           "description": "by roli-lpci - 面向 AI agent 配置与提示词的静态 linter，带 HERM v1.1 评分。可捕捉那些会悄悄降低 agent 行为质量的配置错误。",
           "children": [],
@@ -1268,11 +1229,11 @@
             "id": 1168980518,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T10:07:37Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-05T20:45:45Z",
+            "open_issues": 8,
             "owner": "hermes-labs-ai",
             "repo": "lintlang",
-            "stars": 135,
+            "stars": 137,
             "topics": [
               "agent-config",
               "agent-linter",
@@ -1294,6 +1255,45 @@
               "quality-gate",
               "sarif",
               "static-analysis"
+            ]
+          },
+          "first_seen": "2026-08-28T04:23:44.187Z"
+        },
+        {
+          "node_type": "item",
+          "title": "[experimental] vessel-browser",
+          "description": "by unmodeled-tyler - 面向 AI 的原生 Linux 浏览器，支持 MCP 控制和自主浏览。这是为 agent 使用场景构建的完整浏览器，而不是无头浏览器封装。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Built from the ground-up for agents, Vessel Browser is an open source AI browser for Linux/Mac/Windows that provides a durable state, MCP control, and BYOK with full autonomous browsing. Use with Hermes Agent, OpenClaw, or connect to your favorite API provider.",
+            "homepage": "https://quantaintellect.com",
+            "id": 1175081210,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-15T00:53:58Z",
+            "open_issues": 8,
+            "owner": "unmodeled-tyler",
+            "repo": "vessel-browser",
+            "stars": 137,
+            "topics": [
+              "agents",
+              "ai-agents",
+              "ai-browser",
+              "ai-browser-automation",
+              "ai-mcp-browser",
+              "ai-web-browser",
+              "autonomous-agents",
+              "byok",
+              "claude-mcp",
+              "codex-mcp",
+              "hermes-agent-mcp",
+              "linux",
+              "llm-agents",
+              "mac-universal",
+              "mcp-server",
+              "openclaw-mcp",
+              "web-browser"
             ]
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -1416,7 +1416,7 @@
             "id": 1182767219,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-04T10:25:42Z",
+            "last_commit": "2026-10-05T11:07:21Z",
             "open_issues": 3,
             "owner": "0xrsydn",
             "repo": "nix-hermes-agent",
@@ -1529,11 +1529,11 @@
             "id": 1086419061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T17:43:57Z",
-            "open_issues": 332,
+            "last_commit": "2026-10-05T21:50:23Z",
+            "open_issues": 176,
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 45483,
+            "stars": 45949,
             "topics": [
               "agentic-ai",
               "agents",
@@ -1580,7 +1580,7 @@
             "open_issues": 0,
             "owner": "teknium1",
             "repo": "hermes-miniverse",
-            "stars": 55,
+            "stars": 56,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -1720,7 +1720,7 @@
             "open_issues": 0,
             "owner": "marlandoj",
             "repo": "zouroboros-swarm-executors",
-            "stars": 1,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-09-25T23:21:03.883Z"
@@ -2248,7 +2248,7 @@
             "open_issues": 2,
             "owner": "mudrii",
             "repo": "hermes-agent-docs",
-            "stars": 77,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -2315,11 +2315,11 @@
             "id": 1086419061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T17:43:57Z",
-            "open_issues": 332,
+            "last_commit": "2026-10-05T21:50:23Z",
+            "open_issues": 176,
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 45483,
+            "stars": 45949,
             "topics": [
               "agentic-ai",
               "agents",
@@ -2345,7 +2345,7 @@
             "open_issues": 126,
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5453,
+            "stars": 5459,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -2369,10 +2369,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-29T23:49:31Z",
-            "open_issues": 182,
+            "open_issues": 180,
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6684,
+            "stars": 6687,
             "topics": [
               "agent-ui",
               "ai-workspace",
@@ -2401,7 +2401,7 @@
             "open_issues": 50,
             "owner": "builderz-labs",
             "repo": "mission-control",
-            "stars": 6305,
+            "stars": 6309,
             "topics": [
               "agent-observability",
               "agent-operations",
@@ -2427,7 +2427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:18:23.623Z",
+    "last_updated": "2026-10-06T01:20:29.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "Nous Research 精心整理了一份适用于 Hermes Agent 的实用技能、工具、集成和资源列表。",
