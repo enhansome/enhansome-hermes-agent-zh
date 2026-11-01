@@ -15,11 +15,11 @@
             "id": 1182887460,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T02:37:02Z",
-            "open_issues": 186,
+            "last_commit": "2026-11-01T20:19:07Z",
+            "open_issues": 187,
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6780,
+            "stars": 6781,
             "topics": [
               "agent-ui",
               "ai-workspace",
@@ -48,7 +48,7 @@
             "open_issues": 13,
             "owner": "wondelai",
             "repo": "skills",
-            "stars": 2549,
+            "stars": 2552,
             "topics": [
               "agent-skills",
               "ai-skills",
@@ -88,11 +88,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T23:11:01Z",
-            "open_issues": 52257,
+            "last_commit": "2026-11-01T23:30:27Z",
+            "open_issues": 52242,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 259173,
+            "stars": 259498,
             "topics": [
               "ai",
               "ai-agent",
@@ -123,11 +123,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T23:11:01Z",
-            "open_issues": 52257,
+            "last_commit": "2026-11-01T23:30:27Z",
+            "open_issues": 52242,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 259173,
+            "stars": 259498,
             "topics": [
               "ai",
               "ai-agent",
@@ -162,7 +162,7 @@
             "open_issues": 133,
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5617,
+            "stars": 5622,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -183,7 +183,7 @@
             "open_issues": 147,
             "owner": "NousResearch",
             "repo": "hermes-paperclip-adapter",
-            "stars": 2016,
+            "stars": 2021,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -204,7 +204,7 @@
             "open_issues": 24,
             "owner": "NousResearch",
             "repo": "autonovel",
-            "stars": 1653,
+            "stars": 1654,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -302,7 +302,7 @@
                 "open_issues": 2,
                 "owner": "Cranot",
                 "repo": "super-hermes",
-                "stars": 513,
+                "stars": 514,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:44.187Z"
@@ -340,7 +340,7 @@
                 "id": 1181994538,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-30T08:22:38Z",
+                "last_commit": "2026-11-01T00:51:27Z",
                 "open_issues": 0,
                 "owner": "Lethe044",
                 "repo": "hermes-life-os",
@@ -519,7 +519,7 @@
                 "open_issues": 68,
                 "owner": "mukul975",
                 "repo": "Anthropic-Cybersecurity-Skills",
-                "stars": 35351,
+                "stars": 35404,
                 "topics": [
                   "ai-agents",
                   "claude-code",
@@ -561,7 +561,7 @@
                 "open_issues": 13,
                 "owner": "wondelai",
                 "repo": "skills",
-                "stars": 2549,
+                "stars": 2552,
                 "topics": [
                   "agent-skills",
                   "ai-skills",
@@ -595,8 +595,8 @@
                 "id": 1118556483,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-31T02:31:34Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-01T05:42:49Z",
+                "open_issues": 1,
                 "owner": "DougTrajano",
                 "repo": "pydantic-ai-skills",
                 "stars": 381,
@@ -628,7 +628,7 @@
                 "open_issues": 7,
                 "owner": "ReinaMacCredy",
                 "repo": "maestro",
-                "stars": 236,
+                "stars": 237,
                 "topics": [
                   "agent-harness",
                   "agent-skills",
@@ -715,7 +715,7 @@
                 "id": 1157249238,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T07:22:18Z",
+                "last_commit": "2026-11-01T17:02:21Z",
                 "open_issues": 4,
                 "owner": "armelhbobdad",
                 "repo": "bmad-module-skill-forge",
@@ -902,11 +902,11 @@
                 "id": 1186683138,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T09:12:02Z",
-                "open_issues": 571,
+                "last_commit": "2026-11-01T17:12:51Z",
+                "open_issues": 576,
                 "owner": "plur-ai",
                 "repo": "plur",
-                "stars": 311,
+                "stars": 312,
                 "topics": [
                   "agent-memory",
                   "ai-agents",
@@ -1115,7 +1115,7 @@
                 "open_issues": 79,
                 "owner": "amanning3390",
                 "repo": "hermeshub",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:44.187Z"
@@ -1143,11 +1143,11 @@
             "id": 1182887460,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T02:37:02Z",
-            "open_issues": 186,
+            "last_commit": "2026-11-01T20:19:07Z",
+            "open_issues": 187,
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6780,
+            "stars": 6781,
             "topics": [
               "agent-ui",
               "ai-workspace",
@@ -1173,10 +1173,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-28T16:26:12Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "builderz-labs",
             "repo": "mission-control",
-            "stars": 6423,
+            "stars": 6427,
             "topics": [
               "agent-observability",
               "agent-operations",
@@ -1209,11 +1209,11 @@
             "id": 1182759510,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T01:10:43Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-01T11:50:50Z",
+            "open_issues": 7,
             "owner": "aivrar",
             "repo": "portable-hermes-agent",
-            "stars": 242,
+            "stars": 243,
             "topics": [
               "ai",
               "ai-agents",
@@ -1442,7 +1442,7 @@
             "open_issues": 4,
             "owner": "0xrsydn",
             "repo": "nix-hermes-agent",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -1486,7 +1486,7 @@
                 "open_issues": 2,
                 "owner": "JackTheGit",
                 "repo": "hermes-autonomous-server",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "ai-automation",
                   "ai-server",
@@ -1551,11 +1551,11 @@
             "id": 1086419061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T19:55:02Z",
-            "open_issues": 168,
+            "last_commit": "2026-11-01T14:13:50Z",
+            "open_issues": 177,
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 56978,
+            "stars": 57687,
             "topics": [
               "agentic-ai",
               "agents",
@@ -1769,7 +1769,7 @@
             "open_issues": 2,
             "owner": "1ilkhamov",
             "repo": "opencode-hermes-multiagent",
-            "stars": 197,
+            "stars": 198,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -2270,7 +2270,7 @@
             "open_issues": 3,
             "owner": "mudrii",
             "repo": "hermes-agent-docs",
-            "stars": 80,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -2337,11 +2337,11 @@
             "id": 1086419061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T19:55:02Z",
-            "open_issues": 168,
+            "last_commit": "2026-11-01T14:13:50Z",
+            "open_issues": 177,
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 56978,
+            "stars": 57687,
             "topics": [
               "agentic-ai",
               "agents",
@@ -2367,7 +2367,7 @@
             "open_issues": 133,
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5617,
+            "stars": 5622,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -2390,11 +2390,11 @@
             "id": 1182887460,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T02:37:02Z",
-            "open_issues": 186,
+            "last_commit": "2026-11-01T20:19:07Z",
+            "open_issues": 187,
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6780,
+            "stars": 6781,
             "topics": [
               "agent-ui",
               "ai-workspace",
@@ -2420,10 +2420,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-28T16:26:12Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "builderz-labs",
             "repo": "mission-control",
-            "stars": 6423,
+            "stars": 6427,
             "topics": [
               "agent-observability",
               "agent-operations",
@@ -2449,7 +2449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:28:51.184Z",
+    "last_updated": "2026-11-01T23:41:49.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "Nous Research 精心整理了一份适用于 Hermes Agent 的实用技能、工具、集成和资源列表。",
