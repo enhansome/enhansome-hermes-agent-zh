@@ -19,7 +19,7 @@
             "open_issues": 192,
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6799,
+            "stars": 6804,
             "topics": [
               "agent-ui",
               "ai-workspace",
@@ -48,7 +48,7 @@
             "open_issues": 13,
             "owner": "wondelai",
             "repo": "skills",
-            "stars": 2616,
+            "stars": 2626,
             "topics": [
               "agent-skills",
               "ai-skills",
@@ -88,11 +88,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T00:09:06Z",
-            "open_issues": 53359,
+            "last_commit": "2026-11-07T23:37:07Z",
+            "open_issues": 53708,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 261202,
+            "stars": 261499,
             "topics": [
               "ai",
               "ai-agent",
@@ -123,11 +123,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T00:09:06Z",
-            "open_issues": 53359,
+            "last_commit": "2026-11-07T23:37:07Z",
+            "open_issues": 53708,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 261202,
+            "stars": 261499,
             "topics": [
               "ai",
               "ai-agent",
@@ -162,7 +162,7 @@
             "open_issues": 135,
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5660,
+            "stars": 5667,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -183,7 +183,7 @@
             "open_issues": 143,
             "owner": "NousResearch",
             "repo": "hermes-paperclip-adapter",
-            "stars": 2037,
+            "stars": 2041,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -204,7 +204,7 @@
             "open_issues": 24,
             "owner": "NousResearch",
             "repo": "autonovel",
-            "stars": 1674,
+            "stars": 1676,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -302,7 +302,7 @@
                 "open_issues": 2,
                 "owner": "Cranot",
                 "repo": "super-hermes",
-                "stars": 513,
+                "stars": 515,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:44.187Z"
@@ -340,7 +340,7 @@
                 "id": 1181994538,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T07:10:47Z",
+                "last_commit": "2026-11-07T07:33:25Z",
                 "open_issues": 0,
                 "owner": "Lethe044",
                 "repo": "hermes-life-os",
@@ -510,7 +510,7 @@
                 "open_issues": 68,
                 "owner": "mukul975",
                 "repo": "Anthropic-Cybersecurity-Skills",
-                "stars": 35718,
+                "stars": 35750,
                 "topics": [
                   "ai-agents",
                   "claude-code",
@@ -552,7 +552,7 @@
                 "open_issues": 13,
                 "owner": "wondelai",
                 "repo": "skills",
-                "stars": 2616,
+                "stars": 2626,
                 "topics": [
                   "agent-skills",
                   "ai-skills",
@@ -586,7 +586,7 @@
                 "id": 1118556483,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T10:19:24Z",
+                "last_commit": "2026-11-07T11:26:31Z",
                 "open_issues": 0,
                 "owner": "DougTrajano",
                 "repo": "pydantic-ai-skills",
@@ -656,7 +656,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-09T20:54:01Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "black-forest-labs",
                 "repo": "skills",
                 "stars": 137,
@@ -689,7 +689,7 @@
                 "open_issues": 4,
                 "owner": "smartcontractkit",
                 "repo": "chainlink-agent-skills",
-                "stars": 127,
+                "stars": 128,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:44.187Z"
@@ -706,8 +706,8 @@
                 "id": 1157249238,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T18:43:03Z",
-                "open_issues": 33,
+                "last_commit": "2026-11-07T23:24:43Z",
+                "open_issues": 6,
                 "owner": "armelhbobdad",
                 "repo": "bmad-module-skill-forge",
                 "stars": 100,
@@ -864,7 +864,7 @@
                 "open_issues": 3,
                 "owner": "robbyczgw-cla",
                 "repo": "hermes-web-search-plus",
-                "stars": 441,
+                "stars": 443,
                 "topics": [
                   "ai-agents",
                   "donsetch",
@@ -893,8 +893,8 @@
                 "id": 1186683138,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T20:51:14Z",
-                "open_issues": 594,
+                "last_commit": "2026-11-07T17:48:11Z",
+                "open_issues": 598,
                 "owner": "plur-ai",
                 "repo": "plur",
                 "stars": 313,
@@ -938,12 +938,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Hermes Agent Twitter plugin, a Twitter bot for X automation, monitors & tweet search. Not affiliated with X Corp.",
+                "description": "Hermes Twitter plugin for Hermes Agent, a Twitter bot for monitors, automation & search. Not affiliated with X Corp.",
                 "homepage": "https://docs.xquik.com/guides/hermes-tweet",
                 "id": 1230366935,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T23:41:34Z",
+                "last_commit": "2026-11-07T06:56:35Z",
                 "open_issues": 3,
                 "owner": "Xquik-dev",
                 "repo": "hermes-tweet",
@@ -996,27 +996,6 @@
             },
             {
               "node_type": "item",
-              "title": "[experimental] hermes-payguard",
-              "description": "by nativ3ai - 安全的 USDC 和 x402 支付插件。允许 Hermes 在可配置消费上限和审批流下收付款。",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Safe-by-design USDC and x402 payment plugin for Hermes Agent",
-                "homepage": null,
-                "id": 1187294870,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-03-20T15:43:30Z",
-                "open_issues": 2,
-                "owner": "nativ3ai",
-                "repo": "hermes-payguard",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:23:44.187Z"
-            },
-            {
-              "node_type": "item",
               "title": "[experimental] hermes-plugin-chrome-profiles",
               "description": "by anpicasso - 通过 CDP 在不同 Chrome profile 间切换浏览器工具。适用于多账号测试或使用不同已保存会话进行浏览。",
               "children": [],
@@ -1031,6 +1010,27 @@
                 "open_issues": 4,
                 "owner": "anpicasso",
                 "repo": "hermes-plugin-chrome-profiles",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:23:44.187Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[experimental] hermes-payguard",
+              "description": "by nativ3ai - 安全的 USDC 和 x402 支付插件。允许 Hermes 在可配置消费上限和审批流下收付款。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Safe-by-design USDC and x402 payment plugin for Hermes Agent",
+                "homepage": null,
+                "id": 1187294870,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-03-20T15:43:30Z",
+                "open_issues": 2,
+                "owner": "nativ3ai",
+                "repo": "hermes-payguard",
                 "stars": 14,
                 "topics": []
               },
@@ -1138,7 +1138,7 @@
             "open_issues": 192,
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6799,
+            "stars": 6804,
             "topics": [
               "agent-ui",
               "ai-workspace",
@@ -1167,7 +1167,7 @@
             "open_issues": 59,
             "owner": "builderz-labs",
             "repo": "mission-control",
-            "stars": 6456,
+            "stars": 6461,
             "topics": [
               "agent-observability",
               "agent-operations",
@@ -1542,11 +1542,11 @@
             "id": 1086419061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T14:57:15Z",
-            "open_issues": 188,
+            "last_commit": "2026-11-07T15:13:14Z",
+            "open_issues": 192,
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 59435,
+            "stars": 59720,
             "topics": [
               "agentic-ai",
               "agents",
@@ -2214,7 +2214,7 @@
             "id": 1168909534,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T07:18:46Z",
+            "last_commit": "2026-11-07T00:46:34Z",
             "open_issues": 6,
             "owner": "jasperan",
             "repo": "orahermes-agent",
@@ -2328,11 +2328,11 @@
             "id": 1086419061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T14:57:15Z",
-            "open_issues": 188,
+            "last_commit": "2026-11-07T15:13:14Z",
+            "open_issues": 192,
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 59435,
+            "stars": 59720,
             "topics": [
               "agentic-ai",
               "agents",
@@ -2358,7 +2358,7 @@
             "open_issues": 135,
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5660,
+            "stars": 5667,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:44.187Z"
@@ -2385,7 +2385,7 @@
             "open_issues": 192,
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6799,
+            "stars": 6804,
             "topics": [
               "agent-ui",
               "ai-workspace",
@@ -2414,7 +2414,7 @@
             "open_issues": 59,
             "owner": "builderz-labs",
             "repo": "mission-control",
-            "stars": 6456,
+            "stars": 6461,
             "topics": [
               "agent-observability",
               "agent-operations",
@@ -2440,7 +2440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:09:10.716Z",
+    "last_updated": "2026-11-07T23:42:13.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "Nous Research 精心整理了一份适用于 Hermes Agent 的实用技能、工具、集成和资源列表。",
